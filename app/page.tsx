@@ -1,6 +1,5 @@
 "use client";
 import { useState } from "react";
-// import { Input } from "../components/ui/"; // from shadcn components
 import { Button } from "../components/ui/Button";
 import UploadsTable from "../components/ui/UploadsTable";
 
