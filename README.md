@@ -8,26 +8,27 @@ Built with **Next.js (App Router)**, **TypeScript**, and **Tailwind CSS**.
 ## 📂 Project Structure
 
 dashboard-nextjs/
+
 ├── app/
 │ ├── api/
 │ │ └── upload/
-│ │ └── route.ts # File upload API route
+│ │ └── route.ts
 │ ├── home/
-│ │ └── page.tsx # Dashboard/Home page
-│ ├── globals.css # Global styles
+│ │ └── page.tsx
+│ ├── globals.css 
 │ ├── layout.tsx # Root layout (sidebar, structure)
-│ └── page.tsx # Default landing page
+│ └── page.tsx 
 │
 
 
 
 ├── components/
 │ └── ui/
-│ ├── Avatar.tsx # Avatar component
-│ ├── Button.tsx # Button component
-│ ├── Card.tsx # Card component
-│ ├── Sidebar.tsx # Sidebar navigation
-│ └── UploadsTable.tsx # Table for uploaded files
+│ ├── Avatar.tsx 
+│ ├── Button.tsx
+│ ├── Card.tsx
+│ ├── Sidebar.tsx 
+│ └── UploadsTable.tsx
 │
 
 
@@ -48,17 +49,16 @@ dashboard-nextjs/
 - **API**: Next.js Route Handler (`/api/upload`)
 
 ## 📸 Screenshots
-
+i attach in the folder of screenshorts of assignment
 
 
 ## 🛠️ Setup Instructions
 
 Clone the repo:
-git clone https://github.com/your-username/dashboard-nextjs.git
+git clone 
 cd dashboard-nextjs
 Install dependencies:
 npm install
 
 Run development server:
 npm run dev
-App will be available at: http://localhost:3000
