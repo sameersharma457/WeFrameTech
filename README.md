@@ -48,8 +48,10 @@ dashboard-nextjs/
 - **UI Components**: Custom components (`Card`, `Button`, `Sidebar`, etc.)
 - **API**: Next.js Route Handler (`/api/upload`)
 
-## 📸 Screenshots
-i attach in the folder of screenshorts of assignment
+## 📸 Screenshots 
+{name of files}
+1- Home page ss.png in above code 
+2- 2 nd page ss 
 
 
 ## 🛠️ Setup Instructions
