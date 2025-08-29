@@ -1,4 +1,3 @@
-// app/home/page.tsx
 import Card from "../../components/ui/Card";
 
 export default function HomePage() {
@@ -103,3 +102,4 @@ export default function HomePage() {
     </div>
   );
 }
+
