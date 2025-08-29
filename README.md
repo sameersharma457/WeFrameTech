@@ -18,6 +18,9 @@ dashboard-nextjs/
 │ ├── layout.tsx # Root layout (sidebar, structure)
 │ └── page.tsx # Default landing page
 │
+
+
+
 ├── components/
 │ └── ui/
 │ ├── Avatar.tsx # Avatar component
@@ -26,12 +29,16 @@ dashboard-nextjs/
 │ ├── Sidebar.tsx # Sidebar navigation
 │ └── UploadsTable.tsx # Table for uploaded files
 │
+
+
+
 ├── .gitignore
 ├── next-env.d.ts
 ├── package.json
 ├── package-lock.json
 ├── postcss.config.js
 └── tailwind.config.js
+
 
 ## 🚀 Tech Stack
 - **Framework**: Next.js (App Router)
